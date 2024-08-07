@@ -57,15 +57,8 @@ body[data-theme~="navy"] {
 }
 
 #mainarea {
-	background-color: black;
-	position: absolute;
-	width: 100vw;
-	height: 100vh;
-	left: 0px;
-	right: 0px;
-	top: 0px;
-	bottom: 0px;
-	overflow: hidden;
+	background-image: assets/tumblr_ae5e109d549f4ddaa0d0aed64fd8f912_8a876aaf_1280.jpg;
+	bagckground-size: cover;
 }
 
 input[type="button"] {
