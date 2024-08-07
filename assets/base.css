@@ -57,8 +57,15 @@ body[data-theme~="navy"] {
 }
 
 #mainarea {
-	background-image: ../assets/tumblr_ae5e109d549f4ddaa0d0aed64fd8f912_8a876aaf_1280.jpg;
-	bagckground-size: cover;
+	background-image: url('https://github.com/ho-oh-oh-no/legendarily-fails/raw/main/img/tumblr_b43566665d87c0794d605222c3113c47_6b1ad96e_1280.jpg?raw=true');
+	position: absolute;
+	width: 100vw;
+	height: 100vh;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	overflow: hidden;
 }
 
 input[type="button"] {
