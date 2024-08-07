@@ -57,7 +57,7 @@ body[data-theme~="navy"] {
 }
 
 #mainarea {
-	background-image: url('https://github.com/ho-oh-oh-no/legendarily-fails/raw/main/img/tumblr_b43566665d87c0794d605222c3113c47_6b1ad96e_1280.jpg?raw=true');
+	background-color: lightblue;
 	position: absolute;
 	width: 100vw;
 	height: 100vh;
