@@ -57,7 +57,7 @@ body[data-theme~="navy"] {
 }
 
 #mainarea {
-	background-image: assets/tumblr_ae5e109d549f4ddaa0d0aed64fd8f912_8a876aaf_1280.jpg;
+	background-image: ../assets/tumblr_ae5e109d549f4ddaa0d0aed64fd8f912_8a876aaf_1280.jpg;
 	bagckground-size: cover;
 }
 
